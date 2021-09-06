@@ -10,7 +10,7 @@ Interface is manage to navigate the robot for all the ways and show its coordina
 ## Installation
 _cd <catkin_ws>/src_ <br/>
 _git clone https://github.com/ensyaz/ros_manual_controller_ui.git_ <br/>
-_cd.._ <br/>
+_cd .._ <br/>
 _catkin_make_
 
 
