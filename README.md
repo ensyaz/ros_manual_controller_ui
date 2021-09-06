@@ -8,9 +8,12 @@ Interface is manage to navigate the robot for all the ways and show its coordina
 *[ROS Kinetic (or higher)](http://wiki.ros.org/ROS/Installation)\
 *[Qt5](https://www.qt.io/download)
 ## Installation
-_cd <catkin_ws>/src_ <br/>
-_git clone https://github.com/ensyaz/ros_manual_controller_ui.git_ <br/>
-_cd .._ <br/>
-_catkin_make_
+_$ cd <catkin_ws>/src_ <br/>
+_$ git clone https://github.com/ensyaz/ros_manual_controller_ui.git_ <br/>
+_$ cd .._ <br/>
+_$ catkin_make_
+## Usage
+_$ rosrun ros_manual_controller_ui ui_ctrl_
+
 
 
