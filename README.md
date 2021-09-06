@@ -4,5 +4,6 @@
 *[Qt5](https://www.qt.io/download)
 ## Installation
 Clone it and catkin_make after\
+https://github.com/ensyaz/ROS-ManualControl-UI.git
 
 
