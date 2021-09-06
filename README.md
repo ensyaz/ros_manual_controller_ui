@@ -1,7 +1,7 @@
 # ROS-ManualControl-UI
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45393463/132233925-195fac21-d76e-441f-bf45-3d30bfbdde46.png" />
-</p>
+</p> <br/>
 ## Dependencies & Prerequisites
 *[ROS Kinetic (or higher)](http://wiki.ros.org/ROS/Installation)\
 *[Qt5](https://www.qt.io/download)
