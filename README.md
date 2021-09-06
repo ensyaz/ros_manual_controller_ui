@@ -1,4 +1,4 @@
 # ROS-ManualControl-UI
 ## Dependencies & Prerequisites
-ROSKinetic(or higher), Qt5
-[link to Google!](http://google.com)
+[ROS Kinetic(or higher)](http://wiki.ros.org/ROS/Installation), Qt5
+
