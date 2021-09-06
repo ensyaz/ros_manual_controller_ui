@@ -1,4 +1,4 @@
-# ROS Manual Control UI
+# ROS Manual Controller Interface
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45393463/132233925-195fac21-d76e-441f-bf45-3d30bfbdde46.png" />
