@@ -1,5 +1,5 @@
 # ROS Manual Controller Interface
-Interface is manage to controll the robot for all the ways. The motion topic of the robot to be used must be **/cmd_vel**.
+Interface is manage to navigate the robot for all the ways and show its coordinates. The motion topic of the robot to be used must be **/cmd_vel**.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45393463/132233925-195fac21-d76e-441f-bf45-3d30bfbdde46.png" />
 </p> <br/>
