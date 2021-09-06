@@ -5,7 +5,7 @@ Interface is manage to navigate the robot for all the ways and show its coordina
 </p> <br/>
 
 ## Dependencies & Prerequisites
--[ROS Kinetic (or higher)](http://wiki.ros.org/ROS/Installation) <br/>
+- [ROS Kinetic (or higher)](http://wiki.ros.org/ROS/Installation) <br/>
 - [Qt5](https://www.qt.io/download)
 ## Installation
 _$ cd <catkin_ws>/src_ <br/>
